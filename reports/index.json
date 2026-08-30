@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-215119-3xq5",
+      "title": "Carvis The Mes",
+      "commanders": [
+        "Carvis The Mes"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-08-30T02:51:19.000Z",
+      "dateEnd": "2026-08-30T03:53:08.479Z",
+      "dateLabel": "8/29/2026, 9:51:19 PM - 8/29/2026, 10:53:08 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20260829-215119-3xq5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260825-201912-s09h",
       "title": "Warsworn Immortal",
       "commanders": [
