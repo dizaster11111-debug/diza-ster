@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-221442-1sn3",
+      "title": "Warsworn Immortal",
+      "commanders": [
+        "Warsworn Immortal"
+      ],
+      "guild": {
+        "id": "5EA023AF-DE7F-E411-A32A-E4115BDFA895",
+        "name": "The Grim Reefers",
+        "tag": "BLNT"
+      },
+      "dateStart": "2026-08-31T03:14:42.000Z",
+      "dateEnd": "2026-08-31T04:11:54.892Z",
+      "dateLabel": "8/30/2026, 10:14:42 PM - 8/30/2026, 11:11:54 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20260830-221442-1sn3",
+      "summary": {
+        "borderlandsPct": 0.9056603773584906,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260829-215119-3xq5",
       "title": "Carvis The Mes",
       "commanders": [
