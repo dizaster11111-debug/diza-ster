@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-214525-lupy",
+      "title": "Warsworn Immortal",
+      "commanders": [
+        "Warsworn Immortal"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-09-09T02:45:25.000Z",
+      "dateEnd": "2026-09-09T04:11:59.292Z",
+      "dateLabel": "9/8/2026, 9:45:25 PM - 9/8/2026, 11:11:59 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20260908-214525-lupy",
+      "summary": {
+        "borderlandsPct": 0.575,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260907-222118-s82h",
       "title": "Warsworn Immortal",
       "commanders": [
