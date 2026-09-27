@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260926-213313-sd1c",
+      "title": "Carvis Ironjaw, Daddy Diza",
+      "commanders": [
+        "Carvis Ironjaw",
+        "Daddy Diza"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-09-27T02:33:13.000Z",
+      "dateEnd": "2026-09-27T03:58:34.240Z",
+      "dateLabel": "9/26/2026, 9:33:13 PM - 9/26/2026, 10:58:34 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20260926-213313-sd1c",
+      "summary": {
+        "borderlandsPct": 0.9423076923076923,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260912-222045-g97w",
       "title": "Carvis The Mes",
       "commanders": [
