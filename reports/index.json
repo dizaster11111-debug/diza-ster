@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260927-214022-8njd",
+      "title": "Warsworn Immortal",
+      "commanders": [
+        "Warsworn Immortal"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-09-28T02:40:22.000Z",
+      "dateEnd": "2026-09-28T03:47:23.028Z",
+      "dateLabel": "9/27/2026, 9:40:22 PM - 9/27/2026, 10:47:23 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20260927-214022-8njd",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260926-213313-sd1c",
       "title": "Carvis Ironjaw, Daddy Diza",
       "commanders": [
