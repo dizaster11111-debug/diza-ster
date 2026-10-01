@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260930-210348-whvm",
+      "title": "Doughja Cat",
+      "commanders": [
+        "Doughja Cat"
+      ],
+      "guild": {
+        "id": "28AC2A4B-78F5-F011-BB22-12396678E461",
+        "name": "Wardens Of Winter",
+        "tag": "Woad"
+      },
+      "dateStart": "2026-10-01T02:03:48.000Z",
+      "dateEnd": "2026-10-01T02:44:19.853Z",
+      "dateLabel": "9/30/2026, 9:03:48 PM - 9/30/2026, 9:44:19 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20260930-210348-whvm",
+      "summary": {
+        "borderlandsPct": 0.34375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260927-214022-8njd",
       "title": "Warsworn Immortal",
       "commanders": [
