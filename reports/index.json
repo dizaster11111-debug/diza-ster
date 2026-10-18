@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261017-212657-s78f",
+      "title": "Carvis Ironjaw",
+      "commanders": [
+        "Carvis Ironjaw"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-10-18T02:26:57.000Z",
+      "dateEnd": "2026-10-18T03:19:01.556Z",
+      "dateLabel": "10/17/2026, 9:26:57 PM - 10/17/2026, 10:19:01 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20261017-212657-s78f",
+      "summary": {
+        "borderlandsPct": 0.7555555555555555,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 34,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20261003-214949-cbcp",
       "title": "Carvis Ironjaw",
       "commanders": [
