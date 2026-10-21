@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261020-214214-slv2",
+      "title": "Warsworn Immortal",
+      "commanders": [
+        "Warsworn Immortal"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-10-21T02:42:14.000Z",
+      "dateEnd": "2026-10-21T04:04:57.814Z",
+      "dateLabel": "10/20/2026, 9:42:14 PM - 10/20/2026, 11:04:57 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20261020-214214-slv2",
+      "summary": {
+        "borderlandsPct": 0.21875,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20261017-212657-s78f",
       "title": "Carvis Ironjaw",
       "commanders": [
