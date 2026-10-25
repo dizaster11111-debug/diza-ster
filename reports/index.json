@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261024-215210-htlt",
+      "title": "Daddy Diza",
+      "commanders": [
+        "Daddy Diza"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-10-25T02:52:10.000Z",
+      "dateEnd": "2026-10-25T03:55:54.210Z",
+      "dateLabel": "10/24/2026, 9:52:10 PM - 10/24/2026, 10:55:54 PM",
+      "url": "https://dizaster11111-debug.github.io/diza-ster/?report=20261024-215210-htlt",
+      "summary": {
+        "borderlandsPct": 0.05660377358490566,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261024-215210-09u7",
       "title": "Daddy Diza",
       "commanders": [
